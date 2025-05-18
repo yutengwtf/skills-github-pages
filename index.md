@@ -1,4 +1,16 @@
 ---
-title: Welcome to my blog
+title: 哇塞这就是几哈吗，哈吉米你这家伙
 ---
 
+```python
+def α(β):
+  pass
+```
+
+占领空屏
+
+- 不豪
+
+> 补兑
+
+## 你不要过来啊
